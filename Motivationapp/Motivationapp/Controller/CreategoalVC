@@ -1,0 +1,17 @@
+//
+//  CreategoalVC.swift
+//  Motivationapp
+//
+//  Created by David Taddese on 12/10/2021.
+//
+
+import UIKit
+
+class CreategoalVC: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+    }
+    
+}
